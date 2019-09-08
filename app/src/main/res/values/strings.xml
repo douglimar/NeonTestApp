@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NeonTestApp</string>
+    <string name="xxxxx">XXXXXX</string>
+    <string name="historicoEnvios">HISTÓRICO DE ENVIOS</string>
+    <string name="enviar_dinheiro">ENVIAR DINHEIRO</string>
+    <string name="valor_a_enviar">Valor a enviar:</string>
+    <string name="enviar">enviar</string>
+    <string name="_0_00">0.00</string>
+    <string name="douglimar">Douglimar</string>
+    <string name="douglimar_email_com">douglimar@email.com</string>
+    <string name="joaozinho_da_silva">Joaozinho da Silva</string>
+    <string name="_55_21_9865_7654">+55 21 9865-7654</string>
+</resources>
